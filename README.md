@@ -25,6 +25,24 @@ This game utilizes “Nomus,” in place of avoids, as subordinate enemies of Sh
 * Health != 0, Score = 300 leads to a win. This is typically through attaining points through “saving” civilians by collecting them, killing Nomus, evading multiple Shigaraki attacks, and ensuring health never amounts to 0. 
 Note that scores can go to below 0. 
 
+## How does the game looks like?
+
+### Introduction Screen 
+<img width="898" alt="Screen Shot 2022-11-06 at 8 28 06 AM" src="https://user-images.githubusercontent.com/84925247/200178062-3282a382-0501-4883-9554-da96a942a400.png">
+
+### During the game
+<img width="905" alt="Screen Shot 2022-11-06 at 8 28 15 AM" src="https://user-images.githubusercontent.com/84925247/200178063-7143a123-6648-4cd3-adfb-c20d19e62899.png">
+
+### Deku firing a projectile shot
+<img width="897" alt="Screen Shot 2022-11-06 at 8 28 31 AM" src="https://user-images.githubusercontent.com/84925247/200178065-36e9120e-68bc-4099-b1ec-20a7920111c0.png">
+
+### Game Over State
+<img width="902" alt="Screen Shot 2022-11-06 at 8 29 41 AM" src="https://user-images.githubusercontent.com/84925247/200178066-8cd7971f-6621-4969-b0b7-88d48b30b5a1.png">
+
+### Game Win State
+<img width="897" alt="Screen Shot 2022-11-06 at 8 30 21 AM" src="https://user-images.githubusercontent.com/84925247/200178067-67dba62d-9432-4929-82c6-52cf08cb93a6.png">
+
+
 ## Sources for any "borrowed" assets (images, sound effects, etc)
 ### Images In-Game
 
